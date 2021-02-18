@@ -9,6 +9,8 @@ To begin, simply use "node server.js" in the command line.
 
 Repository URL: https://github.com/anniemcfarland7/Node-Express-Handlebars-Eat-Da-Burger
 
+Heroku URL: https://annie-eat-da-burger.herokuapp.com/
+
 Video URL: https://drive.google.com/file/d/1vu6iqGyy1x9p4EoJBbT5PsL-P-sVQScK/view
 
 ## Preview
