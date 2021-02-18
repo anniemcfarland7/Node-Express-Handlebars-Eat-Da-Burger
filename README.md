@@ -15,4 +15,4 @@ Video URL: https://drive.google.com/file/d/1vu6iqGyy1x9p4EoJBbT5PsL-P-sVQScK/vie
 
 The following video demonstrates the sample Eat Da Burger application:
 
-![Screenshot](./assets/img/video.gif)
+![Screenshot](./public/assets/img/video.gif)
